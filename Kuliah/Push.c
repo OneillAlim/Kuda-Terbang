@@ -3,7 +3,7 @@
 int main(){
 
 
-    printf("Hai boong ngk deh");
+    printf("Hai gais");
 
     return 0;
 }
